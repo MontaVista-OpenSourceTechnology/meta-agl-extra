@@ -1,9 +1,10 @@
 ---
 description: enable user space big.LITTLE scheduler
-author: Frode Isaksen <fisaksen@baylibre.com>
+authors: Frode Isaksen <fisaksen@baylibre.com>
 ---
-### Feature 'blsched'
-
+	
+### Feature blsched
+	 
 This features enables user space big.LITTLE scheduler.
 
 It optimizes task placement on big.LITTLE platforms.
